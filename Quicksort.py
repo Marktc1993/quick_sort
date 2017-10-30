@@ -1,13 +1,3 @@
-# # Nearest neighbors classifier
-# import numpy as np
-# class NearestNeighbor:
-#
-# # __init_ is the constructor method in Python clases.
-# # putting the self argument to have programs behave like non-static methods.
-#
-#     def __init__(self):
-#     """ X is N x D """
-
 
 def quick_sort(arr):
     if len(arr) <=1:
